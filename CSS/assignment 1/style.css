@@ -1,0 +1,14 @@
+.top {
+    height: 60px;
+    background-color: #ff9933
+}
+ 
+.middle {
+    height: 60px;
+    background-color: white
+}
+ 
+.bottom {
+    height: 60px;
+    background-color: green
+}
